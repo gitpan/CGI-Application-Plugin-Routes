@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                CGI-Application-Plugin-Routes
+version:             0.01
+abstract:            CGI::Application::Plugin::Routes
+license:             ~
+author:              
+    - Julián Porta <julian.porta@gmail.com>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
