@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               CGI-Application-Plugin-Routes
-version:            1.01
+version:            1.02
 abstract:           Routes-style dispatching for CGI::Application
 author:
     - Julián Porta <julian.porta@gmail.com>
